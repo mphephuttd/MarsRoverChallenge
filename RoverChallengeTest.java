@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author mphep
+ * @author mphephuttd
  */
 public class RoverChallengeTest {
     
@@ -44,7 +44,9 @@ public class RoverChallengeTest {
         Integer pointing = null;
         RoverChallenge instance = new RoverChallenge();
         instance.defaultPos(x, y, pointing);
-        // TODO review the generated test code and remove the default call to fail.
+      //Should the method test fail the below code will be printed. 
+      //This fail call is similar throughout the entire code.
+        
         fail("The test case is a prototype.");
     }
 
@@ -56,7 +58,7 @@ public class RoverChallengeTest {
         System.out.println("printPosition");
         RoverChallenge instance = new RoverChallenge();
         instance.printPosition();
-        // TODO review the generated test code and remove the default call to fail.
+    
         fail("The test case is a prototype.");
     }
 
@@ -69,7 +71,7 @@ public class RoverChallengeTest {
         String commands = "";
         RoverChallenge instance = new RoverChallenge();
         instance.process(commands);
-        // TODO review the generated test code and remove the default call to fail.
+    
         fail("The test case is a prototype.");
     }
 
@@ -82,7 +84,7 @@ public class RoverChallengeTest {
         Character command = null;
         RoverChallenge instance = new RoverChallenge();
         instance.controller(command);
-        // TODO review the generated test code and remove the default call to fail.
+
         fail("The test case is a prototype.");
     }
 
@@ -94,7 +96,7 @@ public class RoverChallengeTest {
         System.out.println("moves");
         RoverChallenge instance = new RoverChallenge();
         instance.moves();
-        // TODO review the generated test code and remove the default call to fail.
+
         fail("The test case is a prototype.");
     }
 
@@ -106,7 +108,7 @@ public class RoverChallengeTest {
         System.out.println("turnLeft");
         RoverChallenge instance = new RoverChallenge();
         instance.turnLeft();
-        // TODO review the generated test code and remove the default call to fail.
+
         fail("The test case is a prototype.");
     }
 
@@ -118,7 +120,7 @@ public class RoverChallengeTest {
         System.out.println("turnRight");
         RoverChallenge instance = new RoverChallenge();
         instance.turnRight();
-        // TODO review the generated test code and remove the default call to fail.
+
         fail("The test case is a prototype.");
     }
 
@@ -130,7 +132,7 @@ public class RoverChallengeTest {
         System.out.println("main");
         String[] args = null;
         RoverChallenge.main(args);
-        // TODO review the generated test code and remove the default call to fail.
+
         fail("The test case is a prototype.");
     }
     
