@@ -1,5 +1,5 @@
 # MarsRoverChallenge
-# Mars rover challenge
+
 
 Author Mphephuttd
 Date 29 November 2018
