@@ -1,5 +1,5 @@
 # MarsRoverChallenge
-Back end challenge.
+Back end challenge (Coding skills)
 
 Author Mphephuttd
 
