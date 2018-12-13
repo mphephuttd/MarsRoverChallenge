@@ -1,8 +1,9 @@
 # MarsRoverChallenge
-
+Back end challenge.
 
 Author Mphephuttd
-Date 29 November 2018
+
+Date   29th November 2018
 
 *A simple java soltion to the mars rover challenge.
 
